@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LatihanIntent</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="object_received">Object Diterima</string>
+</resources>
